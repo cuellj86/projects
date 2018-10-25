@@ -1,0 +1,7 @@
+C:\Users\Julian\source\repos\Persist\Persist\bin\Debug\Persist.exe.config
+C:\Users\Julian\source\repos\Persist\Persist\bin\Debug\Persist.exe
+C:\Users\Julian\source\repos\Persist\Persist\bin\Debug\Persist.pdb
+C:\Users\Julian\source\repos\Persist\Persist\obj\Debug\Persist.csprojResolveAssemblyReference.cache
+C:\Users\Julian\source\repos\Persist\Persist\obj\Debug\Persist.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Persist\Persist\obj\Debug\Persist.exe
+C:\Users\Julian\source\repos\Persist\Persist\obj\Debug\Persist.pdb

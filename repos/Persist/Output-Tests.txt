@@ -1,0 +1,8 @@
+﻿[11/26/2017 8:23:08 AM Informational] ------ Load Playlist started ------
+[11/26/2017 8:23:08 AM Informational] ========== Load Playlist finished (0:00:00.0030002) ==========
+[11/26/2017 8:23:08 AM Informational] ------ Discover test started ------
+[11/26/2017 8:23:09 AM Informational] ========== Discover test finished: 0 found (0:00:00.5540317) ==========
+[11/26/2017 8:23:29 AM Informational] ------ Discover test started ------
+[11/26/2017 8:23:29 AM Informational] ========== Discover test finished: 0 found (0:00:00.018001) ==========
+[11/26/2017 8:35:33 AM Informational] ------ Discover test started ------
+[11/26/2017 8:35:33 AM Informational] ========== Discover test finished: 0 found (0:00:00.0120007) ==========

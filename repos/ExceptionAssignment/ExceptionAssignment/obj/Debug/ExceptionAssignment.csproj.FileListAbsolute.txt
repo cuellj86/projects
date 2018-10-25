@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe.config
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.exe
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\bin\Debug\ExceptionAssignment.pdb
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.Form1.resources
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.Properties.Resources.resources
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.GenerateResource.Cache
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
+C:\Users\Julian\source\repos\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb

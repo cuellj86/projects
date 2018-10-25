@@ -1,0 +1,7 @@
+C:\Users\Julian\source\repos\CCR\CCR\bin\Debug\CCR.exe.config
+C:\Users\Julian\source\repos\CCR\CCR\bin\Debug\CCR.exe
+C:\Users\Julian\source\repos\CCR\CCR\bin\Debug\CCR.pdb
+C:\Users\Julian\source\repos\CCR\CCR\obj\Debug\CCR.csprojResolveAssemblyReference.cache
+C:\Users\Julian\source\repos\CCR\CCR\obj\Debug\CCR.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\CCR\CCR\obj\Debug\CCR.exe
+C:\Users\Julian\source\repos\CCR\CCR\obj\Debug\CCR.pdb

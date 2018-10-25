@@ -1,0 +1,11 @@
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\bin\Debug\AutoRepairGUI.exe.config
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\bin\Debug\AutoRepairGUI.exe
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\bin\Debug\AutoRepairGUI.pdb
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.csprojResolveAssemblyReference.cache
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.CarForm.resources
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.Properties.Resources.resources
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.csproj.GenerateResource.Cache
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.exe
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.pdb
+C:\Users\Julian\source\repos\AutoRepairGUI\AutoRepairGUI\obj\Debug\AutoRepairGUI.CarListForm.resources

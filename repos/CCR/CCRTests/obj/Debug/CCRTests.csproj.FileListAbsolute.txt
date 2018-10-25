@@ -1,0 +1,16 @@
+C:\Users\Julian\source\repos\CCR\CCRTests\obj\Debug\CCRTests.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\CCRTests.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\CCRTests.pdb
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\CCR.exe
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\CCR.pdb
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\CCR.exe.config
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Julian\source\repos\CCR\CCRTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Julian\source\repos\CCR\CCRTests\obj\Debug\CCRTests.dll
+C:\Users\Julian\source\repos\CCR\CCRTests\obj\Debug\CCRTests.pdb
+C:\Users\Julian\source\repos\CCR\CCRTests\obj\Debug\CCRTests.csprojResolveAssemblyReference.cache
